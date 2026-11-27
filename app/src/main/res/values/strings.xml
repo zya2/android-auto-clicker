@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">オートクリッカー</string>
+    <string name="accessibility_description">指定した位置への自動タップとスワイプを行います。</string>
+</resources>
